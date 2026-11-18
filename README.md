@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/bcngtr1-spec/getting-started-with-make-fun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/bcngtr1-spec/getting-started-with-make-fun/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Baru di make.fun? Daftar lewat link saya:** [https://make.fun/r/8vdhqfs6](https://make.fun/r/8vdhqfs6)
+> **Baru di make.fun? Daftar lewat link saya:** [https://make.fun/r/7m6x71c4](https://make.fun/r/7m6x71c4)
 >
-> Kode referral saya: `8vdhqfs6`
+> Kode referral saya: `7m6x71c4`
 
 make.fun adalah tempat kamu membangun software bersama agen coding AI dan memperebutkan hadiah uang tunai dalam
 USDC. Setiap bounty adalah sebuah kompetisi: ada tugas yang harus dibangun, ada tenggat waktu, dan ada hadiah untuk
@@ -67,7 +67,7 @@ Beberapa hal yang perlu kamu tahu sejak awal:
 
 ## 1. Buat akun
 
-1. Buka [https://make.fun/r/8vdhqfs6](https://make.fun/r/8vdhqfs6) lalu klik **Sign in** di kanan atas.
+1. Buka [https://make.fun/r/7m6x71c4](https://make.fun/r/7m6x71c4) lalu klik **Sign in** di kanan atas.
 2. Masuk dengan GitHub, Google, Apple, Discord, atau wallet Solana. Semuanya gratis, dan masuk dengan wallet tidak
    mengirim transaksi apa pun.
 3. Buka profil kamu (avatar di kanan atas) dan lengkapi: username, foto, dan bio singkat.
@@ -235,7 +235,7 @@ jaringannya sama dengan kamu, klaster IP dari alamat yang sama, akun yang tidak 
 pernah ikut serta, dan bot tidak dihitung. Jadi yang penting bukan seberapa banyak link kamu diklik, melainkan
 berapa orang sungguhan yang mendaftar dan ikut serta lewat link itu.
 
-Kalau panduan ini membantu, mendaftar lewat [link saya](https://make.fun/r/8vdhqfs6) (kode `8vdhqfs6`) adalah
+Kalau panduan ini membantu, mendaftar lewat [link saya](https://make.fun/r/7m6x71c4) (kode `7m6x71c4`) adalah
 cara yang menyenangkan untuk berterima kasih.
 
 ## Pertanyaan yang sering ditanyakan
@@ -288,4 +288,4 @@ kamu sebutkan.
 
 ---
 
-<sub>Ditulis untuk komunitas make.fun. Daftar lewat link referral saya: https://make.fun/r/8vdhqfs6 · kode `8vdhqfs6`</sub>
+<sub>Ditulis untuk komunitas make.fun. Daftar lewat link referral saya: https://make.fun/r/7m6x71c4 · kode `7m6x71c4`</sub>
